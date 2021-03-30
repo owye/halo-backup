@@ -1,0 +1,2 @@
+2021-03-23 01:03:54.536  INFO 3449 --- [main] run.halo.app.Application                 : Starting Application v1.4.7 using Java 11.0.10 on 10-23-202-173 with PID 3449 (/root/halo.jar started by root in /)
+2021-03-23 01:03:54.818  INFO 3449 --- [main] run.halo.app.Application                 : No active profile set, falling back to default profiles: default
